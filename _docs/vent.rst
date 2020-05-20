@@ -5,72 +5,22 @@ Subpackages
 -----------
 
 .. toctree::
+   :maxdepth: 4
 
+   vent.alarm
+   vent.common
+   vent.controller
+   vent.coordinator
    vent.gui
+   vent.io
 
 Submodules
 ----------
-
-vent.alarms module
-------------------
-
-.. automodule:: vent.alarms
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.controller module
-----------------------
-
-.. automodule:: vent.controller
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.controls module
---------------------
-
-.. automodule:: vent.controls
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.gui\_styles module
------------------------
-
-.. automodule:: vent.gui_styles
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.helper module
-------------------
-
-.. automodule:: vent.helper
-   :members:
-   :undoc-members:
-   :show-inheritance:
 
 vent.main module
 ----------------
 
 .. automodule:: vent.main
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.main\_control module
--------------------------
-
-.. automodule:: vent.main_control
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.io module
--------------------
-
-.. automodule:: vent.io
    :members:
    :undoc-members:
    :show-inheritance:

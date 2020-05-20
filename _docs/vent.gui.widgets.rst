@@ -20,10 +20,10 @@ vent.gui.widgets.control module
    :undoc-members:
    :show-inheritance:
 
-vent.gui.widgets.monitor\_value module
---------------------------------------
+vent.gui.widgets.monitor module
+-------------------------------
 
-.. automodule:: vent.gui.widgets.monitor_value
+.. automodule:: vent.gui.widgets.monitor
    :members:
    :undoc-members:
    :show-inheritance:

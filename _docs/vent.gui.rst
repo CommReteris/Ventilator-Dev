@@ -1,13 +1,29 @@
 vent.gui package
 ================
 
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   vent.gui.widgets
+
 Submodules
 ----------
 
-vent.gui.defaults module
-------------------------
+vent.gui.alarm\_manager module
+------------------------------
 
-.. automodule:: vent.gui.defaults
+.. automodule:: vent.gui.alarm_manager
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+vent.gui.main module
+--------------------
+
+.. automodule:: vent.gui.main
    :members:
    :undoc-members:
    :show-inheritance:
@@ -16,14 +32,6 @@ vent.gui.styles module
 ----------------------
 
 .. automodule:: vent.gui.styles
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-vent.gui.widgets module
------------------------
-
-.. automodule:: vent.gui.widgets
    :members:
    :undoc-members:
    :show-inheritance:

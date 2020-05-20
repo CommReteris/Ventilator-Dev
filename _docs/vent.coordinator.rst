@@ -12,18 +12,18 @@ vent.coordinator.coordinator module
    :undoc-members:
    :show-inheritance:
 
-vent.coordinator.ipc module
----------------------------
-
-.. automodule:: vent.coordinator.ipc
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 vent.coordinator.process\_manager module
 ----------------------------------------
 
 .. automodule:: vent.coordinator.process_manager
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+vent.coordinator.rpc module
+---------------------------
+
+.. automodule:: vent.coordinator.rpc
    :members:
    :undoc-members:
    :show-inheritance:
