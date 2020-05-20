@@ -67,10 +67,10 @@ vent.main\_control module
    :undoc-members:
    :show-inheritance:
 
-vent.sensors module
+vent.io module
 -------------------
 
-.. automodule:: vent.sensors
+.. automodule:: vent.io
    :members:
    :undoc-members:
    :show-inheritance:
